@@ -2,7 +2,7 @@
 
 # Installation
 
-In order to use ATCRecall, you only need to download the latest release and run it.
+In order to use ATCRecall, you only need to download the latest release and unzip it at your prefered location, you can then run ATCRecall.exe.
 
 # Tutorial
 
