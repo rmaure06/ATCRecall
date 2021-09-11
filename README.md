@@ -12,7 +12,7 @@ Using ATCRecall, you can set up to 3 timers. In order to do so, fill the 3 field
 
 Once you have filled the fields, press the '+' button, it will start to run the timer...
 
-When the timer reaches 00:00, it will display END and get colored in red:
+When the timer reaches 00:00, it will display END in red, and play a little sound to get your attention:
 ![image](https://user-images.githubusercontent.com/64205205/132950738-1cfa9436-8c75-449b-a42c-28c2c57f10dc.png)
 
 You can delete any timer at any time by simply pressing the X button next to it
